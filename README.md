@@ -1,4 +1,4 @@
-# 🚀 VIDI X - Meteor Blaster
+# 🚀 VIDI X Game - Meteor Blaster
 
 A fast-paced arcade-style shooter game for the VIDI X microcontroller, featuring smooth graphics powered by LovyanGFX, reactive LED feedback with FastLED, and immersive audio effects via PWM speaker control. The game challenges players to survive a meteor storm, collect energy cells, and rack up points with precision shooting.
 
