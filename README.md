@@ -18,11 +18,9 @@ You control a spaceship navigating through waves of falling meteors. Avoid colli
 
 ## 📦 Hardware Requirements
 
-* **VIDI X** (ESP32-based microcontroller)
+* **VIDI X microcomputer** (ESP32-based microcontroller)
 * **ILI9341 display** (240x320)
-* **Joystick** (analog connected to GPIO34 & GPIO35)
-* **Button A** (GPIO32)
-* **Restart Button** (GPIO0)
+* **Buttons** (UP, DOWN, LEFT, RIGHT, buttons connected to GPIO34 & GPIO35, Button A - GPIO32, Restart Button - GPIO0)
 * **RGB LEDs** (WS2812B x5 on GPIO26)
 * **Speaker** (PWM audio on GPIO25)
 
